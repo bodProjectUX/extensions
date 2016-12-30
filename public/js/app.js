@@ -2,7 +2,7 @@ function initialize() {
     var options = {
         'document' : 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE2LTEyLTMwLTAwLTEyLTU0LTk5b2t1cm93NGJoanJmbGU0aHk4M2M3Y2p6MnUvTW9udGVwcmluY2lwZS1SdnQxNS1NQVNURVJfZGV0YWNoZWQzLmR3Zng==',
         'env':'AutodeskProduction',
-        'getAccessToken': getToken,
+        'getAccessToken': 99OkurOw4bHJRFle4HY83c7cJz2u,
         'refreshToken': getToken,
     };
     var viewerElement = document.getElementById('viewer');
